@@ -42,4 +42,5 @@ public class PlayerMove : MonoBehaviour
         }
         transform.position = new Vector3(pos.x, pos.y, pos.z);
     }
+
 }

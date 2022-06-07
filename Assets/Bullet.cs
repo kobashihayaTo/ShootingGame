@@ -26,6 +26,7 @@ public class Bullet : MonoBehaviour
         if(pos.z>=20)
         {
             Destroy(this.gameObject);
+
         }
     }
 }
